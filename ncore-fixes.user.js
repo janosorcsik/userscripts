@@ -3,6 +3,8 @@
 // @description  Shows full images and full titles, makes search use GET, hides banners and extra boxes
 // @author       János Orcsik
 // @version      2026.10.09
+// @updateURL    https://raw.githubusercontent.com/janosorcsik/userscripts/main/ncore-fixes.user.js
+// @downloadURL  https://raw.githubusercontent.com/janosorcsik/userscripts/main/ncore-fixes.user.js
 // @match        https://ncore.pro/*
 // @grant        none
 // @noframes

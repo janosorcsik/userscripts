@@ -3,6 +3,8 @@
 // @description  Adds a More Info link to the cards under More Like This and Collections
 // @author       János Orcsik
 // @version      2026.10.09
+// @updateURL    https://raw.githubusercontent.com/janosorcsik/userscripts/main/netflix-more-info-button.user.js
+// @downloadURL  https://raw.githubusercontent.com/janosorcsik/userscripts/main/netflix-more-info-button.user.js
 // @match        https://www.netflix.com/*
 // @grant        none
 // @noframes

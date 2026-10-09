@@ -3,6 +3,8 @@
 // @description  Adds a Maps tab to Google search results
 // @author       János Orcsik
 // @version      2026.10.09
+// @updateURL    https://raw.githubusercontent.com/janosorcsik/userscripts/main/google-maps-tab.user.js
+// @downloadURL  https://raw.githubusercontent.com/janosorcsik/userscripts/main/google-maps-tab.user.js
 // @match        https://www.google.com/search*
 // @match        https://www.google.hu/search*
 // @grant        none

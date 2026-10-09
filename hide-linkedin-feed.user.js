@@ -3,6 +3,8 @@
 // @description  Hides the main feed
 // @author       János Orcsik
 // @version      2026.10.09
+// @updateURL    https://raw.githubusercontent.com/janosorcsik/userscripts/main/hide-linkedin-feed.user.js
+// @downloadURL  https://raw.githubusercontent.com/janosorcsik/userscripts/main/hide-linkedin-feed.user.js
 // @match        https://www.linkedin.com/*
 // @grant        none
 // @run-at       document-start

@@ -3,6 +3,8 @@
 // @description  Hides the home feed and the recommendations next to the video
 // @author       János Orcsik
 // @version      2026.10.09
+// @updateURL    https://raw.githubusercontent.com/janosorcsik/userscripts/main/hide-youtube-recommendations.user.js
+// @downloadURL  https://raw.githubusercontent.com/janosorcsik/userscripts/main/hide-youtube-recommendations.user.js
 // @match        https://www.youtube.com/*
 // @grant        none
 // @run-at       document-start
